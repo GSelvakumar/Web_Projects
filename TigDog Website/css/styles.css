@@ -127,3 +127,12 @@ p {
 .pricing-column {
   padding: 3% 2%
 }
+
+/* Website @ 1028px in tab view */
+
+@media (max-width: 1028px) {
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+}
