@@ -128,6 +128,33 @@ p {
   padding: 3% 2%
 }
 
+/* CTA Section */
+
+#cta {
+  background-color: #ff4c68;
+  color: #fff;
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.cta-heading {
+  font-family: "Montserrat";
+  font-weight: 700;
+  line-height: 1.5;
+  font-size: 3.5rem;
+}
+
+/*Footer Section */
+
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
 /* Website @ 1028px in tab view */
 
 @media (max-width: 1028px) {
