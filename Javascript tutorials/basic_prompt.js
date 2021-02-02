@@ -15,3 +15,11 @@ message.length
 
 var upper = message.toUpperCase();
 var lower = message.toLowerCase();
+
+//complex increments
+
+var x = 3;
+var y = x++;
+y += 1;
+
+//y = 4 at line 23
