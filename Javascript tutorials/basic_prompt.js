@@ -23,3 +23,12 @@ var y = x++;
 y += 1;
 
 //y = 4 at line 23
+
+//functions
+
+function closeDoor() {
+    console.log("Walk out of the door!");
+    console.log("Lock the door!");
+}
+
+closeDoor();
