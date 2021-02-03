@@ -2,7 +2,7 @@ function bmiCalculator(weight, height) {
     var x = weight;
     var y = Math.pow(height, 2);
     var result = x / y;
-    return result;
+    return Math.round(result);
 }
 
 var bmi = bmiCalculator(65, 1.8); 
