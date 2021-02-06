@@ -32,3 +32,5 @@ function closeDoor() {
 }
 
 closeDoor();
+
+//comparison of == & === 
