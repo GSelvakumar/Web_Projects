@@ -1,1 +1,4 @@
-alert("Its working");
+document.querySelector("button").addEventListener("click", function () {
+    alert("I got clicked!");
+});
+
